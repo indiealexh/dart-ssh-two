@@ -1,6 +1,6 @@
 # dart_ssh_two
 
-A library for Dart developers. It is awesome.
+ A SSH2 Client library for Dart Lang
 
 ## Usage
 

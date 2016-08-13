@@ -1,8 +1,8 @@
 name: dart_ssh_two
 description: A SSH2 Client library for Dart Lang
-version: 0.0.1
+version: 0.0.2
 author: Alexander Haslam <champhaggy@gmail.com>
-#homepage: https://www.example.com
+homepage: https://github.com/indiealexh/dart-ssh-two
 
 environment:
   sdk: '>=1.0.0 <2.0.0'

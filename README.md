@@ -4,16 +4,11 @@ A library for Dart developers. It is awesome.
 
 ## Usage
 
-A simple usage example:
-
-    import 'package:dart_ssh_two/dart_ssh_two.dart';
-
-    main() {
-      var awesome = new Awesome();
-    }
+This is currently a placeholder package!
+Please visit the homepage to get progress.
 
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/indiealexh/dart-ssh-two/issues
